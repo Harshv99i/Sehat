@@ -1,0 +1,23 @@
+homepage -bloodbank ,consultance
+login/signup-link to bloodbank profile
+user profile -aadhar ,pincode,name ,age,allergies,contact detail ,address, gender, image (to verify with aadhar ), user history, old prescription 
+doctor profile- specilization, experince ,name, clinic /hospital,direction , review /rating ,private or govermnet ,fees
+search page - show doctors according to  disease,symptoms
+payment -cash on appointment 
+prescription pdf -doctor form fill , digital signature 
+consult - chat box, old prescription(with permission) 
+
+
+blodd bank-
+1 emergency - pincode or get my location , blood type 
+2 nearby bloodbanks - name ,direction  ,time 
+3 register blood bank -( online find ) form
+
+
+consultance- login/signup--symtop/disease page--search page 
+
+
+
+
+doctor semiprofile -https://codepen.io/littlesnippets/pen/mVqNjw
+chat box- https://codepen.io/shivapandey/details/dWdRYM/
